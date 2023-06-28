@@ -6,7 +6,7 @@ Recordar que es necesario tener una cuenta de Azure con una subscripción para a
 Para crear una función, se debe crear un recurso en Azure Functions. Para esto es necesario llenar el formulario:
 
 ## Datos basicos
-Es necesario definer la suscripción a Azure a usar, el grupo de recursos, el nombre del recurso, la pila del entorno (en este caso Node.js), el sistema operativo (en este caso Linux)...
+Es necesario definer la suscripción a Azure a usar, el grupo de recursos, el nombre del recurso, la pila del entorno (en este caso **Node.js**), el sistema operativo (en este caso **Linux**)...
 ![](screenshots/K_000.jpg)
 
 # Funciones
